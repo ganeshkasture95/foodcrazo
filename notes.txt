@@ -1,0 +1,14 @@
+Key Take Aways form this app building process 
+
+1. Always make the Check to the global.css path when adding nativeWind to the project 
+2. Add the assets to the constant flder and export it from a index.ts file makes easy to import 
+3. Add the Fonts to the root Layout file using the useFonts hook 
+4. Use the SafeArea View form safe area context 
+5. Extract your styles (reusable) to a global and then use them to the tsx
+6. [] = Date
+7. {} = Object 
+8. Use FlatList for the scrolling content and extract the constants
+9. use clsx cn for adding dynamic classnames styles in nativeWind
+10. Donot use a vertulised list into the ScrollView Component
+
+
