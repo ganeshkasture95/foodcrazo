@@ -10,5 +10,8 @@ Key Take Aways form this app building process
 8. Use FlatList for the scrolling content and extract the constants
 9. use clsx cn for adding dynamic classnames styles in nativeWind
 10. Donot use a vertulised list into the ScrollView Component
+11. Create components 
+12. Extract the types of the props into a type.d.ts
+13. Use Props Properly
 
 
